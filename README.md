@@ -7,7 +7,7 @@
 
 ## 成果展示
 
-![](https://github.com/grand-coder/Alex92422/ntut01/raw/master/demo.png)
+![](https://github.com/Alex92422/ntut01/raw/master/demo.png)
 
 ## 使用技術
 
